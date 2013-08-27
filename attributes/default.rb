@@ -1,0 +1,1 @@
+default['github']['home'] = '/home/' + node['github']['user']
